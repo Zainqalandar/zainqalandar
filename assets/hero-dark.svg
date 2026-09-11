@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Syed Zain Qalandar — Full-Stack Developer</title>
+  <desc id="description">Good interfaces. Better foundations. An architectural illustration connects interface, application, and data layers.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#D5F2B0" stroke-opacity=".055"/>
+    </pattern>
+    <linearGradient id="plane" x1="810" y1="130" x2="1138" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D5F2B0" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#D5F2B0" stop-opacity=".04"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" rx="16" fill="#111916"/>
+  <rect x="752" y="96" width="416" height="320" fill="url(#grid)"/>
+  <path d="M56 84H1144M56 426H1144" stroke="#334137"/>
+  <rect x="56" y="30" width="38" height="32" rx="3" fill="#D5F2B0"/>
+  <text x="75" y="52" fill="#172218" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="-1">ZQ</text>
+  <text x="110" y="52" fill="#F2F0E8" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="2">SYED ZAIN QALANDAR</text>
+  <text x="1144" y="52" fill="#B5BFB4" text-anchor="end" font-family="monospace" font-size="14" letter-spacing="1.5">FULL-STACK DEVELOPER</text>
+  <text x="56" y="191" fill="#F2F0E8" font-family="Georgia, 'DejaVu Serif', serif" font-size="65" letter-spacing="-2.5">Good interfaces.</text>
+  <text x="56" y="269" fill="#D5F2B0" font-family="Georgia, 'DejaVu Serif', serif" font-size="65" font-style="italic" letter-spacing="-2.5">Better foundations.</text>
+  <text x="60" y="331" fill="#B5BFB4" font-family="Arial, Helvetica, sans-serif" font-size="21">React &amp; Next.js on the surface.</text>
+  <text x="60" y="362" fill="#B5BFB4" font-family="Arial, Helvetica, sans-serif" font-size="21">Node.js &amp; data systems underneath.</text>
+  <g stroke-linejoin="round">
+    <path d="M974 266L1138 340L974 414L810 340Z" fill="#19251D" stroke="#657B60"/>
+    <path d="M810 340V351L974 425L1138 351V340M974 414V425" stroke="#455840"/>
+    <path d="M853 340L974 285L1095 340L974 395Z" stroke="#657B60" stroke-dasharray="3 6"/>
+    <path d="M974 198L1138 272L974 346L810 272Z" fill="#213025" stroke="#A0B78E"/>
+    <path d="M810 272V284L974 358L1138 284V272M974 346V358" stroke="#657B60"/>
+    <path d="M888 272L974 233L1060 272L974 311Z" stroke="#A0B78E" stroke-opacity=".5"/>
+    <path d="M974 130L1138 204L974 278L810 204Z" fill="#25372A" stroke="#D5F2B0" stroke-width="1.5"/>
+    <path d="M974 130L1138 204L974 278L810 204Z" fill="url(#plane)"/>
+    <path d="M810 204V216L974 290L1138 216V204M974 278V290" stroke="#A0B78E"/>
+    <path d="M850 204L974 148L1098 204L974 260Z" stroke="#D5F2B0" stroke-opacity=".4"/>
+    <path d="M892 185L1016 241M933 167L1057 223M891 223L1015 167M933 241L1057 185" stroke="#D5F2B0" stroke-opacity=".2"/>
+    <path d="M974 102V130M974 290V309M974 358V377" stroke="#D5F2B0" stroke-dasharray="3 4"/>
+    <circle cx="974" cy="102" r="4" fill="#D5F2B0"/>
+    <circle cx="810" cy="204" r="4" fill="#D5F2B0"/>
+    <circle cx="1138" cy="204" r="4" fill="#D5F2B0"/>
+  </g>
+  <g font-family="monospace" font-size="13" letter-spacing="2" text-anchor="middle">
+    <rect x="944" y="189" width="60" height="29" rx="3" fill="#D5F2B0"/>
+    <text x="975" y="209" fill="#172218" font-weight="700">UI</text>
+    <text x="975" y="329" fill="#D5F2B0">API</text>
+    <text x="975" y="399" fill="#B5BFB4">DATA</text>
+  </g>
+  <circle cx="63" cy="461" r="4" fill="#D5F2B0"/>
+  <text x="80" y="466" fill="#F2F0E8" font-family="monospace" font-size="14" letter-spacing="1.5">DESIGN / BUILD / REFINE</text>
+  <text x="1144" y="466" fill="#B5BFB4" text-anchor="end" font-family="monospace" font-size="13" letter-spacing="1">WEB APPLICATIONS · APIs · DASHBOARDS</text>
+</svg>
